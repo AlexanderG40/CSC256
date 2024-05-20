@@ -1,0 +1,21 @@
+/* Styles only the body */
+body{
+    /* Sets the color of the h1 to blue */
+    background-color: grey;
+    
+}
+/* Styles the h1 tag */
+h1{
+    color: beige;
+    text-align: center;
+}
+/* Sets the color and any style to the h2 */
+h2,h3{
+    color: aquamarine;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+/* Styles the footer */
+footer{
+    text-align: center;
+    color: blue;
+}
